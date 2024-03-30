@@ -1,4 +1,5 @@
-# sda-dateapp
+# Mellon_Mingo_Dating_APP
+#### A Team of 5 People
 
 ## How to run?
 
