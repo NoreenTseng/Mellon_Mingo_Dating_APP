@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+target/
+mysql-local/local-db-mysql-data
+

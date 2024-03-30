@@ -1,0 +1,2 @@
+ALTER TABLE `stories`
+CHANGE COLUMN `visibility` `state` VARCHAR(10) NULL DEFAULT NULL ;
