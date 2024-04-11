@@ -1,6 +1,8 @@
 # Mellon_Mingo_Dating_APP
 #### A Team of 5 People
 
+[Frontend Repo](https://github.com/NoreenTseng/Mellon_Mingo_Dating_APP_FrontEnd)
+
 ## How to run?
 
 ```bash
